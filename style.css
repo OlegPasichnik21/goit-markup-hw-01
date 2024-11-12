@@ -1,0 +1,16 @@
+/*CSS*/
+header {
+  background-color: #e7e9fc;
+}
+.title {
+  color: #e7e9fc;
+}
+.effective {
+  color: #ffffff;
+}
+h1 {
+  color: #ffffff;
+}
+.link:hover {
+  color: #2e2f42;
+}
